@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebf83012-de55-4c7b-b33e-50ec07cee2ef" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/listview_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/listview_item.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/superheroku/id/co/androidkotlin6listview/MainActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/superheroku/id/co/androidkotlin6listview/MainActivity.kt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listview_item.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="listview_item.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/listview_item.xml">
           <provider selected="true" editor-type-id="android-designer2">
             <state />
@@ -52,12 +52,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/superheroku/id/co/androidkotlin6listview/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="216">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#50#122#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -2181,6 +2183,7 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/listview_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/superheroku/id/co/androidkotlin6listview/MainActivity.kt" />
       </list>
     </option>
   </component>
@@ -2460,14 +2463,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/superheroku/id/co/androidkotlin6listview/MainActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -2487,6 +2482,16 @@
         <state relative-caret-position="270">
           <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/superheroku/id/co/androidkotlin6listview/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#122#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
